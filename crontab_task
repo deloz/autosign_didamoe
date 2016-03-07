@@ -1,0 +1,2 @@
+0 * * * * cd /your-path/autosign_didamoe && npm run start
+
